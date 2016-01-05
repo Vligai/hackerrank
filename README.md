@@ -1,1 +1,1 @@
-# hackerrank
+doing some hakerrank challanges
